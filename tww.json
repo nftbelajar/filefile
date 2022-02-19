@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Twise #1",
+    "description": "Welcome to Twise",
+    "image": "ipfs://QmXHmnKmTyp6HTvN3932RyaQsUgnSffutdhmLG3qphCxyX/1.png",
+    "dna": "f954a0d3a84bf8fedd2ed67b4374566d95db75b4",
+    "edition": 1,
+    "date": 1645288012701,
+    "attributes": [
+      {
+        "trait_type": "card",
+        "value": "cardnormal"
+      },
+      {
+        "trait_type": "chara",
+        "value": "1nayeon"
+      },
+      {
+        "trait_type": "desctext",
+        "value": "1textnayeon"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Twise #2",
+    "description": "Welcome to Twise",
+    "image": "ipfs://QmXHmnKmTyp6HTvN3932RyaQsUgnSffutdhmLG3qphCxyX/2.png",
+    "dna": "86e8f1f4caca25e235703109a6cf064eacdac0c4",
+    "edition": 2,
+    "date": 1645288013260,
+    "attributes": [
+      {
+        "trait_type": "card",
+        "value": "cardnormal"
+      },
+      {
+        "trait_type": "chara",
+        "value": "1nayeon"
+      },
+      {
+        "trait_type": "desctext",
+        "value": "1textjihyo"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
